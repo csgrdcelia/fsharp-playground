@@ -1,1 +1,1 @@
-"# F# Playground" 
+# F# Playground
